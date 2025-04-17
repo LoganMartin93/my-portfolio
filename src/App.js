@@ -52,12 +52,26 @@ function App() {
             </a>
           </div>
           <div className="col text-center">
-            <a href="https://github.com/loganmartin93/portfolio" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/LoganMartin93/my-portfolio" target="_blank" rel="noopener noreferrer">
               <Button>Portfolio</Button>
             </a>
           </div>
         </div>
       </Card>
+      <Card className="mt-5">
+  <h2 className="text-primary text-center">Contact Me</h2>
+  <p className="text-center fs-5">
+    Feel free to reach out or follow me through any of the platforms below!
+  </p>
+  <ul className="list-unstyled text-center fs-5">
+    <li>Email: <a href="mailto:thisisloganmartinsemail@gmail.com">thisisloganmartinsemail@gmail.com</a></li>
+    <li>Phone: <a href="tel:+18089878875">(808) 987-8875</a></li>
+    <li>GitHub: <a href="https://github.com/LoganMartin93" target="_blank" rel="noopener noreferrer">github.com/LoganMartin93</a></li>
+    <li>X: <a href="https://x.com/Logan4127726042" target="_blank" rel="noopener noreferrer">@Logan4127726042</a></li>
+    <li>Medium: <a href="https://medium.com/@thisisloganmartinsemail" target="_blank" rel="noopener noreferrer">@thisisloganmartinsemail</a></li>
+  </ul>
+</Card>
+
     </div>
   );
 }
