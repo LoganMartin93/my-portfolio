@@ -18,3 +18,8 @@ code {
 .underline {
   text-decoration: underline;
 }
+
+.highlight {
+  color: #002afe; 
+  font-weight: bold;
+}

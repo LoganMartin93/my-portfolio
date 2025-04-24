@@ -30,8 +30,18 @@ function App() {
         </div>
 
         <p className="text-center fs-4">
-          Hello! My name is Logan Martin. I'm a junior Full Stack Developer with a Full-Stack Web Development certificate from CareerFoundry and an Associate’s Degree in Computer Science from Diablo Valley College. I build applications using MongoDB, Node.js, Express, Angular, React, HTML, CSS/SCSS, and Bootstrap—and I’m always expanding my skill set. With over 20 years of experience as a musician and more than a decade in sales, I bring strong communication skills, confidence in public speaking, and a natural ability to connect with people. Whether I’m working independently or collaborating with a team, I bring energy, dedication, and creativity to every project. I’m excited to contribute to your team—check out some of my projects below!
+          Hello! My name is Logan Martin. I'm a junior Full Stack Developer with a Full-Stack Web Development certificate from CareerFoundry and an Associate’s Degree in Computer Science from Diablo Valley College. I build applications using  
+          <span className="highlight"> MongoDB</span> ,    
+          <span className="highlight">Express</span> ,    
+          <span className="highlight">React</span> , 
+          <span className="highlight">Node.js</span> ,
+          <span className="highlight">Angular</span> , 
+          <span className="highlight">HTML</span> ,  
+          <span className="highlight">CSS/SCSS</span> ,  
+          and <span className="highlight">Bootstrap</span>—and I’m always expanding my skill set. With over 20 years of experience as a musician and more than a decade in sales, I bring strong communication skills, confidence in public speaking, and a natural ability to connect with people. Whether I’m working independently or collaborating with a team, I bring energy, dedication, and creativity to every project. I’m excited to contribute to your team—check out some of my projects below!
         </p>
+
+        
 
         <h2 className="text-primary text-center mt-4 underline">Projects</h2>
         
